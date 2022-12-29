@@ -1,0 +1,4 @@
+https://devdotng.github.io/blog.html
+https://devdotng.github.io/others.html
+https://devdotng.github.io/help.html
+https://devdotng.github.io/about.html
